@@ -1,0 +1,2251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sterling Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-03 14:26+0730\n"
+"PO-Revision-Date: 2012-07-03 14:26+0730\n"
+"Last-Translator: \n"
+"Language-Team: truethemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:13
+#: archive.php:17
+#: archive.php:19
+#: archive.php:21
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:15
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:23
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:25
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:57
+#: index.php:48
+msgid "Posted by"
+msgstr ""
+
+#: archive.php:57
+#: index.php:49
+msgid "on"
+msgstr ""
+
+#: archive.php:77
+#: index.php:71
+msgid "Posted in:"
+msgstr ""
+
+#: archive.php:85
+#: index.php:79
+msgid "Nothing Found"
+msgstr ""
+
+#: archive.php:86
+#: index.php:80
+msgid "Sorry, it appears there is no content in this section."
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:22
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:24
+msgid "reply"
+msgstr ""
+
+#: comments.php:24
+msgid "(edit)"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Comment"
+msgstr ""
+
+#: comments.php:70
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:71
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:88
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:88
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:93
+msgid "Name"
+msgstr ""
+
+#: comments.php:93
+#: comments.php:96
+msgid "*"
+msgstr ""
+
+#: comments.php:96
+msgid "Email"
+msgstr ""
+
+#: comments.php:96
+msgid "(will not be published)"
+msgstr ""
+
+#: comments.php:99
+msgid "Website"
+msgstr ""
+
+#: comments.php:107
+msgid "Submit"
+msgstr ""
+
+#: index.php:72
+msgid "Leave a Comment:"
+msgstr ""
+
+#: page-template-gallery-2col.php:14
+#: page-template-gallery-3col-portraits.php:14
+#: page-template-gallery-3col.php:14
+#: page-template-gallery-4col-portraits.php:14
+#: page-template-gallery-4col.php:14
+msgid "All"
+msgstr ""
+
+#: page-template-sitemap.php:16
+msgid "Pages List"
+msgstr ""
+
+#: page-template-sitemap.php:23
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: template-part-faq-output.php:50
+msgid "top"
+msgstr ""
+
+#: template-part-inline-editing.php:10
+msgid "+ Edit this post"
+msgstr ""
+
+#: template-part-inline-editing.php:17
+msgid "+ Edit this page"
+msgstr ""
+
+#: template-part-small-banner.php:89
+msgid "Search Results for"
+msgstr ""
+
+#: framework/extended/wp-pagenavi.php:196
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: framework/extended/wp-pagenavi.php:199
+#: framework/extended/wp-pagenavi.php:202
+msgid "&laquo;"
+msgstr ""
+
+#: framework/extended/wp-pagenavi.php:200
+#: framework/extended/wp-pagenavi.php:201
+msgid "&raquo;"
+msgstr ""
+
+#: framework/extended/wp-pagenavi.php:203
+#: framework/extended/wp-pagenavi.php:204
+msgid "..."
+msgstr ""
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:28
+msgid "Display a 3D tag cloud on your site."
+msgstr ""
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:29
+msgid "Custom 3D Tag Cloud"
+msgstr ""
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:86
+msgid "Title:"
+msgstr ""
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:88
+msgid "Speed:"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:86
+msgid "From"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:87
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:829
+msgid "Message"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:88
+msgid "Date"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:160
+msgid "Restore"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:163
+#: framework/extended/grunion-contact-form/admin.php:262
+msgid "Delete this item permanently"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:165
+#: framework/extended/grunion-contact-form/admin.php:264
+msgid "Delete Permanently"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:196
+msgid "Mark this message as spam"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:205
+#: framework/extended/grunion-contact-form/admin.php:497
+msgid "Trash"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:256
+msgid "Mark this message as NOT spam"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:295
+msgid "Y-m-d @ g:i:s A"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:419
+msgid "You are not allowed to manage this item."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:453
+msgid "You are not allowed to move this item out of the Trash."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:456
+msgid "Error in restoring from Trash."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:460
+msgid "You are not allowed to move this item to the Trash."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:463
+msgid "Error in moving to Trash."
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:487
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:828
+msgid "Messages"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/admin.php:510
+msgid "Spam"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:53
+msgid "Email Address"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:57
+msgid "Subject"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:128
+msgid "Yes"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:170
+#, php-format
+msgid "%s requires a valid email address"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:177
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:374
+msgid "Invalid CAPTCHA"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:561
+msgid "l F j, Y \\a\\t g:i a"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:830
+msgid "Search Message"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:831
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:832
+msgid "No message found"
+msgstr ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:871
+msgid "Add a custom form"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:294
+msgid "SEO Title"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:295
+msgid "SEO Keywords"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:296
+msgid "SEO Description"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:402
+#: framework/extended/seo-module/seo_module.php:408
+#: framework/extended/seo-module/seo_module.php:409
+msgid "SEO Settings"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:453
+msgid " characters. Most search engines use a maximum of 60 chars for the title."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:458
+#: framework/extended/seo-module/seo_module_class.php:1305
+msgid "Description:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:463
+#: framework/extended/seo-module/seo_module_class.php:1309
+msgid " characters. Most search engines use a maximum of 160 chars for the description."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:468
+#: framework/extended/seo-module/seo_module_class.php:1248
+#: framework/extended/seo-module/seo_module_class.php:1313
+msgid "Keywords (comma separated):"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:474
+#: framework/extended/seo-module/seo_module_class.php:1328
+msgid "Title Attribute:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:479
+#: framework/extended/seo-module/seo_module_class.php:1332
+msgid "Menu Label:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module.php:485
+#: framework/extended/seo-module/seo_module_class.php:1320
+msgid "Disable on this page/post:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1240
+msgid "framework_localize"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1280
+#: framework/extended/seo-module/seo_module_class.php:1287
+msgid "All in One SEO Pack"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1293
+msgid "Click here for Support"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1395
+msgid "SEO Settings Reset."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1441
+msgid "SEO Settings Updated."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1538
+msgid "Plugin Status:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1542
+msgid "Enabled"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1543
+msgid "Disabled"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1546
+msgid "All in One SEO Pack must be enabled for use."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1555
+msgid "Home Title:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1562
+msgid "The &lt;title&gt; of your homepage. This is independent of any other option. If not set, the default blog title will get used."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1571
+msgid "Home Description:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1578
+msgid "The &lt;meta&gt; description for your homepage. Independent of any other options, the default is no &lt;meta&gt; description at all if this is not set."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1587
+msgid "Home Keywords (comma separated):"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1594
+msgid "A comma separated list of your most important keywords for your site that will be written as &lt;meta&gt; keywords on your homepage."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1603
+msgid "Canonical URLs:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1610
+msgid "This option will automatically generate Canonical URLS for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href='http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html' target='_blank'>Google</a>."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1619
+msgid "Rewrite Titles:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1626
+msgid "This is about the &lt;title&gt; tag within your HTML &lt;head&gt; and not your WordPress Post Title or Page Title. <br/>This is what you see in your browser's window title bar. <br/>This is Not visible on a page, only in the window title bar and in the source. <br/>If set, all page, post, category, search and archive page titles get rewritten. <br/> You can specify the format for most of them."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1635
+msgid "Post Title Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1642
+#: framework/extended/seo-module/seo_module_class.php:1669
+#: framework/extended/seo-module/seo_module_class.php:1694
+#: framework/extended/seo-module/seo_module_class.php:1716
+#: framework/extended/seo-module/seo_module_class.php:1737
+#: framework/extended/seo-module/seo_module_class.php:1758
+#: framework/extended/seo-module/seo_module_class.php:1779
+#: framework/extended/seo-module/seo_module_class.php:1801
+#: framework/extended/seo-module/seo_module_class.php:1825
+msgid "The following macros are supported:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1644
+#: framework/extended/seo-module/seo_module_class.php:1671
+#: framework/extended/seo-module/seo_module_class.php:1696
+#: framework/extended/seo-module/seo_module_class.php:1718
+#: framework/extended/seo-module/seo_module_class.php:1739
+#: framework/extended/seo-module/seo_module_class.php:1760
+#: framework/extended/seo-module/seo_module_class.php:1781
+#: framework/extended/seo-module/seo_module_class.php:1803
+msgid "%blog_title% - Your blog title"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1645
+#: framework/extended/seo-module/seo_module_class.php:1672
+#: framework/extended/seo-module/seo_module_class.php:1697
+#: framework/extended/seo-module/seo_module_class.php:1719
+#: framework/extended/seo-module/seo_module_class.php:1740
+#: framework/extended/seo-module/seo_module_class.php:1761
+#: framework/extended/seo-module/seo_module_class.php:1782
+#: framework/extended/seo-module/seo_module_class.php:1804
+msgid "%blog_description% - Your blog description"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1646
+msgid "%post_title% - The original title of the post"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1647
+msgid "%category_title% - The (main) category of the post"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1648
+msgid "%category% - Alias for %category_title%"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1649
+msgid "%post_author_login% - This post's author' login"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1650
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1651
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1652
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1662
+msgid "Page Title Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1673
+msgid "%page_title% - The original title of the page"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1674
+msgid "%page_author_login% - This page's author' login"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1675
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1676
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1677
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1687
+msgid "Category Title Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1698
+msgid "%category_title% - The original title of the category"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1699
+msgid "%category_description% - The description of the category"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1709
+msgid "Archive Title Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1720
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1730
+msgid "Tag Title Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1741
+msgid "%tag% - The name of the tag"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1751
+msgid "Search Title Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1762
+msgid "%search% - What was searched for"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1772
+msgid "Description Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1783
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1784
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1794
+msgid "404 Title Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1805
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1806
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1807
+msgid "%404_title% - Additional 404 title input\""
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1817
+msgid "Paged Format:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1824
+msgid "This string gets appended/prepended to titles when they are for paged index pages (like home or archive pages)."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1827
+msgid "%page% - The page number"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1837
+msgid "SEO for Custom Post Types:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1844
+msgid "Check this if you want your enable AIOSEOP support for Custom Post Types on this site."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1855
+msgid "Custom Post Types for SEO Column Support:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1875
+msgid "Choose which post types you want to have SEO columns on the edit.php screen. You can select as many as you like."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1885
+msgid "Use Categories for META keywords:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1892
+msgid "Check this if you want your categories for a given post used as the META keywords for this post (in addition to any keywords and tags you specify on the post edit page)."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1901
+msgid "Use Tags for META keywords:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1908
+msgid "Check this if you want your tags for a given post used as the META keywords for this post (in addition to any keywords you specify on the post edit page)."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1920
+msgid "Dynamically Generate Keywords for Posts Page:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1927
+msgid "Check this if you want your keywords on a custom posts page (set it in options->reading) to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1936
+msgid "Use noindex for Categories:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1943
+msgid "Check this for excluding category pages from being crawled. Useful for avoiding duplicate content."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1952
+msgid "Use noindex for Archives:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1959
+msgid "Check this for excluding archive pages from being crawled. Useful for avoiding duplicate content."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1968
+msgid "Use noindex for Tag Archives:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1975
+msgid "Check this for excluding tag pages from being crawled. Useful for avoiding duplicate content."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1984
+msgid "Autogenerate Descriptions:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1990
+msgid "Check this and your META descriptions will get autogenerated if there's no excerpt."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:1999
+msgid "Capitalize Category Titles:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2006
+msgid "Check this and Category Titles will have the first letter of each word capitalized."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2016
+msgid "Exclude Pages:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2024
+msgid "Enter any comma separated pages here to be excluded by SEO Module.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/,/contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is give forum or /forum or /forum/ or and any URL with the word \"forum\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage will be excluded from SEO Module."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2034
+msgid "Additional Post Headers:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2041
+msgid "What you enter here will be copied verbatim to your header on post pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2050
+msgid "Additional Page Headers:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2057
+msgid "What you enter here will be copied verbatim to your header on pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2066
+msgid "Additional Home Headers:"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2073
+msgid "What you enter here will be copied verbatim to your header on the home page. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2091
+msgid "Update Settings"
+msgstr ""
+
+#: framework/extended/seo-module/seo_module_class.php:2092
+msgid "Reset Settings to Defaults"
+msgstr ""
+
+#: framework/global/widgets.php:15
+msgid "Link to your RSS feed and social media accounts."
+msgstr ""
+
+#: framework/global/widgets.php:17
+msgid "Custom Social Networks"
+msgstr ""
+
+#: framework/global/widgets.php:65
+#: framework/global/widgets.php:73
+msgid "RSS"
+msgstr ""
+
+#: framework/global/widgets.php:172
+msgid "Title link:"
+msgstr ""
+
+#: framework/global/widgets.php:178
+msgid "None"
+msgstr ""
+
+#: framework/global/widgets.php:187
+msgid "RSS URL: (leave empty for default feed)"
+msgstr ""
+
+#: framework/global/widgets.php:200
+msgid "Twitter URL:"
+msgstr ""
+
+#: framework/global/widgets.php:213
+msgid "Facebook URL:"
+msgstr ""
+
+#: framework/global/widgets.php:226
+msgid "Email Address:"
+msgstr ""
+
+#: framework/global/widgets.php:240
+msgid "Flickr URL:"
+msgstr ""
+
+#: framework/global/widgets.php:253
+msgid "Youtube URL:"
+msgstr ""
+
+#: framework/global/widgets.php:266
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: framework/global/widgets.php:279
+msgid "FourSquare URL:"
+msgstr ""
+
+#: framework/global/widgets.php:292
+msgid "Delicious URL:"
+msgstr ""
+
+#: framework/global/widgets.php:305
+msgid "Digg URL:"
+msgstr ""
+
+#: framework/global/widgets.php:340
+msgid "Show your recent posts."
+msgstr ""
+
+#: framework/global/widgets.php:342
+msgid "Custom Recent Posts"
+msgstr ""
+
+#: framework/global/widgets.php:392
+msgid "Number of Posts:"
+msgstr ""
+
+#: framework/global/widgets.php:416
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: framework/global/widgets.php:418
+msgid "Custom Categories"
+msgstr ""
+
+#: framework/global/widgets.php:423
+msgid "Categories"
+msgstr ""
+
+#: framework/global/widgets.php:441
+msgid "Select Category"
+msgstr ""
+
+#: framework/global/widgets.php:515
+msgid "Show as dropdown"
+msgstr ""
+
+#: framework/global/widgets.php:528
+#: framework/global/widgets.php:754
+msgid "Show post counts"
+msgstr ""
+
+#: framework/global/widgets.php:541
+msgid "Show hierarchy"
+msgstr ""
+
+#: framework/global/widgets.php:567
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr ""
+
+#: framework/global/widgets.php:569
+msgid "Custom Menus"
+msgstr ""
+
+#: framework/global/widgets.php:606
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: framework/global/widgets.php:628
+msgid "Select Menu:"
+msgstr ""
+
+#: framework/global/widgets.php:666
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr ""
+
+#: framework/global/widgets.php:668
+msgid "Custom Archives"
+msgstr ""
+
+#: framework/global/widgets.php:675
+msgid "Archives"
+msgstr ""
+
+#: framework/global/widgets.php:684
+msgid "Select Month"
+msgstr ""
+
+#: framework/global/widgets.php:766
+msgid "Display as a drop down"
+msgstr ""
+
+#: framework/global/widgets.php:793
+msgid "Display your Flickr photos on your website."
+msgstr ""
+
+#: framework/global/widgets.php:802
+msgid "Custom Flickr Photos"
+msgstr ""
+
+#: framework/global/widgets.php:888
+msgid "Flickr ID:"
+msgstr ""
+
+#: framework/global/widgets.php:903
+msgid "Number of Photos:"
+msgstr ""
+
+#: framework/global/widgets.php:929
+msgid "Type (user or group):"
+msgstr ""
+
+#: framework/global/widgets.php:951
+msgid "Display (random or latest):"
+msgstr ""
+
+#: framework/global/widgets.php:1025
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: framework/global/widgets.php:1034
+msgid "Custom Latest Tweets"
+msgstr ""
+
+#: framework/global/widgets.php:1135
+msgid "Twitter Username e.g. ormanclark"
+msgstr ""
+
+#: framework/global/widgets.php:1151
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: framework/global/widgets.php:1167
+msgid "Follow Text e.g. Follow me on Twitter"
+msgstr ""
+
+#: framework/global/widgets.php:1304
+msgid "Add a google map to your blog or site"
+msgstr ""
+
+#: framework/global/widgets.php:1305
+msgid "Custom Google Map"
+msgstr ""
+
+#: framework/global/widgets.php:1339
+msgid "Note: you can retrieve the required latitude and longitude values at"
+msgstr ""
+
+#: framework/global/widgets.php:1345
+msgid "Latitude:"
+msgstr ""
+
+#: framework/global/widgets.php:1349
+msgid "Longitude:"
+msgstr ""
+
+#: framework/global/widgets.php:1353
+msgid "Zoom Level: <small>(1-19)</small>"
+msgstr ""
+
+#: framework/global/widgets.php:1359
+msgid "Map Type:<br /><small>(ROADMAP, SATELLITE, HYBRID, TERRAIN)</small>"
+msgstr ""
+
+#: framework/global/widgets.php:1366
+msgid "Address for directions:"
+msgstr ""
+
+#: framework/global/widgets.php:1370
+msgid "Info Bubble Content:"
+msgstr ""
+
+#: framework/global/widgets.php:1402
+msgid "Use this widget to display your business hours."
+msgstr ""
+
+#: framework/global/widgets.php:1411
+msgid "Custom Business Hours"
+msgstr ""
+
+#: framework/global/widgets.php:1434
+#: framework/global/widgets.php:1503
+msgid "Monday:"
+msgstr ""
+
+#: framework/global/widgets.php:1437
+#: framework/global/widgets.php:1520
+msgid "Tuesday:"
+msgstr ""
+
+#: framework/global/widgets.php:1440
+#: framework/global/widgets.php:1537
+msgid "Wednesday:"
+msgstr ""
+
+#: framework/global/widgets.php:1443
+#: framework/global/widgets.php:1554
+msgid "Thursday:"
+msgstr ""
+
+#: framework/global/widgets.php:1446
+#: framework/global/widgets.php:1571
+msgid "Friday:"
+msgstr ""
+
+#: framework/global/widgets.php:1449
+#: framework/global/widgets.php:1588
+msgid "Saturday:"
+msgstr ""
+
+#: framework/global/widgets.php:1452
+#: framework/global/widgets.php:1605
+msgid "Sunday:"
+msgstr ""
+
+#: framework/global/widgets.php:1642
+msgid "Use this widget to display your contact details."
+msgstr ""
+
+#: framework/global/widgets.php:1651
+msgid "Custom Contact Details"
+msgstr ""
+
+#: framework/global/widgets.php:1675
+msgid "phone:"
+msgstr ""
+
+#: framework/global/widgets.php:1676
+msgid "fax:"
+msgstr ""
+
+#: framework/global/widgets.php:1677
+msgid "email:"
+msgstr ""
+
+#: framework/global/widgets.php:1725
+msgid "Street Address:"
+msgstr ""
+
+#: framework/global/widgets.php:1742
+msgid "City, State, Zipcode:"
+msgstr ""
+
+#: framework/global/widgets.php:1759
+msgid "Phone:"
+msgstr ""
+
+#: framework/global/widgets.php:1776
+msgid "Fax:"
+msgstr ""
+
+#: framework/global/widgets.php:1793
+msgid "Email:"
+msgstr ""
+
+#: framework/theme-specific/metabox.php:294
+msgid "Featured Video"
+msgstr ""
+
+#: framework/theme-specific/metabox.php:301
+msgid "Featured Image (External Source)"
+msgstr ""
+
+#: framework/theme-specific/metabox.php:330
+msgid "Hide the sub navigation"
+msgstr ""
+
+#: framework/theme-specific/navigation.php:102
+#, php-format
+msgid "View all items filed under %s"
+msgstr ""
+
+#: framework/theme-specific/navigation.php:118
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:8
+msgid "Gallery Posts"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:9
+msgid "Gallery Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:10
+#: framework/theme-specific/post-types.php:35
+msgid "gallery"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:11
+#: framework/theme-specific/post-types.php:52
+#: framework/theme-specific/post-types.php:93
+msgid "Add New"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:12
+msgid "Add New Gallery Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:13
+msgid "Edit Gallery Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:14
+msgid "New Gallery Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:15
+msgid "View Gallery Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:16
+msgid "Search Gallery Posts"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:17
+msgid "No Gallery Posts found"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:18
+msgid "No Gallery Posts found in Trash"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:49
+msgid "FAQs"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:50
+msgid "FAQ"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:51
+#: framework/theme-specific/post-types.php:76
+msgid "faq"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:53
+msgid "Add New FAQ"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:54
+msgid "Edit FAQ"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:55
+msgid "New FAQ"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:56
+msgid "View FAQ"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:57
+msgid "Search FAQs"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:58
+msgid "No FAQs found"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:59
+msgid "No FAQs found in Trash"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:90
+msgid "Slider Posts"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:91
+msgid "Slider Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:92
+#: framework/theme-specific/post-types.php:117
+msgid "slider"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:94
+msgid "Add New Slider Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:95
+msgid "Edit Slider Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:96
+msgid "New Slider Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:97
+msgid "View Slider Post"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:98
+msgid "Search Slider Posts"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:99
+msgid "No Slider Posts found"
+msgstr ""
+
+#: framework/theme-specific/post-types.php:100
+msgid "No Slider Posts found in Trash"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:98
+msgid "General Settings"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:102
+msgid "Website Logo"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:103
+msgid "Upload a custom logo for your Website."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:108
+msgid "Login Screen Logo"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:109
+msgid "Upload a custom logo for your Wordpress login screen."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:114
+msgid "Favicon"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:115
+msgid "Upload a 16px x 16px image that will represent your website's favicon.<br /><br /><em>To ensure cross-browser compatibility, we recommend converting the favicon into .ico format before uploading. (<a href=\"http://www.favicon.cc/\" target=\"_blank\">www.favicon.cc</a>)</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:120
+msgid "Logo Builder - Select an Icon"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:121
+msgid "Select an icon to be used for your logo.<br><br><em>note: you should only select an icon if you won't be uploading a custom logo.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:137
+msgid "Logo Builder - Text"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:138
+msgid "Enter the text to be used for your logo.<br><br><em>note: you should only enter logo text if you won't be uploading a custom logo.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:144
+msgid "Meta Boxes"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:145
+msgid "This functionality hides meta boxes in the Dashboard to help Wordpress feel more like a CMS. This includes: Comments, Discussion, Trackbacks, Custom Fields, Author, and Slug. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:151
+msgid "Inline Editing"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:152
+msgid "This functionality adds an inline-editing button to all pages & posts so that logged-in administrators can quickly and easily edit their website. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:158
+msgid "SEO Module"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:159
+msgid "A Search Engine Optimization Module is available by default. <em>Please check this box to enable this Module. Please remove any SEO plugins before enabling this module, so as to prevent any possible SEO conflicts.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:165
+msgid "Responsive Design"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:166
+msgid "This theme comes with a Responsive Design that will adjust the theme's design when viewed on a mobile device. <em>Please check this box if you prefer to disable the responsive design.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:172
+msgid "Update Notifier"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:173
+msgid "An Update Notifier is included by default. This functionality enables the theme to automatically check with our server for the latest version available. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:179
+msgid "Tracking Code"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:180
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:199
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:203
+msgid "Blog Page"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:204
+msgid "Select your blog page from the dropdown list."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:211
+msgid "Banner Title"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:212
+msgid "This page title is displayed in the banner area of the Blog page."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:218
+#: framework/theme-specific/site-options.php:476
+msgid "Searchbar"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:219
+msgid "A searchbar is displayed within the banner of all Blog pages by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:225
+msgid "Banner Description"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:226
+msgid "This descriptive text is displayed in the banner area of the Blog page.<br /><br /><em>Note: this text will only be displayed if the searchbar is diabled.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:232
+msgid "Blog Post Excerpt"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:233
+msgid "The full blog post is displayed by default. <em>Un-check this box to disable this functionality and display only the post excerpt.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:238
+msgid "Blog Post Excerpt Link"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:239
+msgid "Enter the text for the link that will lead to the full blog post.<br><br><em>You can ignore this section if displaying the full blog post.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:245
+msgid "Twitter \"Re-tweet\" Button"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:246
+msgid "A Twitter re-tweet button is displayed under each blog post by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:251
+msgid "Facebook \"Like\" Button"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:252
+msgid "A Facebook \"Like\" button is displayed under each blog post by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:257
+msgid "Pinterest \"Pin it\" Button"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:258
+msgid "A Pinterest \"Pin it\" button is displayed under each blog post by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:263
+msgid "\"Posted by\" Information"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:264
+msgid "The \"Posted by\"  information is displayed within each blog post by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:269
+msgid "Post Comments"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:270
+msgid "Post comments are enabled by default. <em>Un-check this box to completely disable comments on all blog posts.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:275
+msgid "Exclude Categories"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:276
+msgid "Check off any post categories that you'd like to exclude from the blog."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:296
+msgid "Footer Options"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:300
+msgid "Footer Columns"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:301
+msgid "Select the number of columns you would like to display in the footer."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:308
+msgid "Footer Callout"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:309
+msgid "A Callout Area is displayed above the footer by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:315
+msgid "Footer Callout - Text"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:316
+msgid "Enter the text to be displayed in the footer Callout Area."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:323
+msgid "Footer Callout - Button Label"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:324
+msgid "Enter the text to be displayed within the Callout Button."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:330
+msgid "Footer Callout - Button URL"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:331
+msgid "Enter the URL where the user will be sent after clicking the Callout Button."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:337
+msgid "Footer Copyright"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:338
+msgid "Enter the copyright information to be displayed in the footer."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:357
+msgid "Styling Options"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:361
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:362
+msgid "Select the primary color scheme for your website."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:388
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:389
+msgid "Mix and match color schemes for a completely custom look."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:416
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:417
+msgid "Use this area to add custom CSS to your website."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:423
+#: framework/theme-specific/site-options.php:520
+msgid "Theme Designer"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:426
+msgid "You can further customize the entire look of your theme by using the built in Theme Designer. The Theme Designer is located right here within Site Options Panel under Appearance > Site Options > Theme Designer"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:444
+msgid "Interface Options"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:448
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:449
+msgid "Breadcrumbs are displayed on all interior pages by default. <em>Un-check this box to disable breadcrumbs.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:455
+msgid "Breadcrumbs \"Home\" Link"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:456
+msgid "Customize the text for the home link displayed in the breadcrumbs."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:462
+msgid "Toolbar"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:463
+msgid "A toolbar is displayed above the main navigation by default. <em>Un-check this box to disable the toolbar.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:469
+msgid "Dropdown Menus"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:470
+msgid "The main menu organizes child pages into dropdown menus by default. <em>Un-check this box to disable the dropdown menus.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:477
+msgid "A Searchbar can be included on a per-page basis to any page on your website. Un-check this box to completely disable the searchbar from every page on your website. <em>Please note: this will override all per-page searchbar settings (this functionality excludes blog and utility pages).</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:483
+msgid "Searchbar Text"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:484
+msgid "Customize the text that is displayed in the search bar."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:490
+msgid "Scroll to Top Link"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:491
+msgid "A scroll-to-top button is added to the footer by default. <em>Un-check this box to disable the link.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:496
+msgid "Scroll to Top Text"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:497
+msgid "Add the text to be used for the \"Scroll to Top\" link."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:502
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:503
+msgid "Enter the number of Gallery Posts to display on each page. <em>All posts will be displayed by default.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:524
+msgid "Top Toolbar - Background Color"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:525
+msgid "Select a custom background color for your website's top toolbar."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:531
+msgid "Banner - Background Color"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:532
+msgid "Select a custom background color for your website's banner."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:538
+msgid "Footer - Background Color"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:539
+msgid "Select a custom background color for your website's footer."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:545
+msgid "Banner &amp; Footer Design"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:546
+msgid "Select a custom design for your website's banner and footer.<br /><br /><em>Note: This will add a transparent image on top of your already chosen background color.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:565
+msgid "Shadow Style"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:566
+msgid "Select the shadow style for your website's navigation bar and footer."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:586
+msgid "Top Toolbar - Padding"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:587
+msgid "Modify the height of the top toolbar by adjusting the padding.<br /><br /><em>Default value is 8px.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:600
+msgid "Navigation Bar - Padding"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:601
+msgid "Modify the height of the navigation bar by adjusting the padding.<br /><br /><em>Default value is 32px.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:607
+msgid "Interior Banner - Padding"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:608
+msgid "Modify the height of the interior banner by adjusting the padding.<br /><br /><em>Default value is 25px.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:614
+msgid "Footer - Padding"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:615
+msgid "Modify the height of the footer by adjusting the padding.<br /><br /><em>Default padding is 20px.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:621
+msgid "Link Color"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:622
+msgid "Select a custom color for your website's links."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:627
+msgid "Main Menu - Active Link Color"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:628
+msgid "Select a custom color for the Main Menu active link."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:633
+msgid "Heading Color (H1)"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:634
+msgid "Select a custom color for your website's H1 Headings."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:639
+msgid "Heading Color (H2)"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:640
+msgid "Select a custom color for your website's H2 Headings."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:645
+msgid "Heading Color (H3)"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:646
+msgid "Select a custom color for your website's H3 Headings."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:651
+msgid "Heading Color (H4)"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:652
+msgid "Select a custom color for your website's H4 Headings."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:657
+msgid "Heading Color (H5)"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:658
+msgid "Select a custom color for your website's H5 Headings."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:663
+msgid "Heading Color (H6)"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:664
+msgid "Select a custom color for your website's H6 Headings."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:669
+msgid "Heading Color - Sidebar Widgets"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:670
+msgid "Select a custom color for your website's Sidebar Widget Headings."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:689
+msgid "Typography"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:693
+msgid "Google Web Fonts"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:694
+msgid "Select a custom font to be used for your website's headings.<br><br><strong>Fonts:</strong><br>1. (no custom font)<br>2. Droid Sans<br>3. Cabin<br>4. Questrial<br>5. Cuprum<br>6. News Cycle<br>7. Enriqueta<br>8. Open Sans<br>9. Arvo<br>10. Kreon<br>11. Indie Flower<br>12. Josefin Sans"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:714
+msgid "Custom Google Web Font"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:715
+msgid "Enter a custom font name If you prefer to use a font that's not listed above.<br><br>Here is the complete list of available <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:739
+msgid "Forms"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:742
+msgid "Form Builder"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:743
+msgid "A powerful form builder is included by default. <em>Un-check this box to disable the form builder.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:748
+msgid "reCAPTCHA: Public Key"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:749
+msgid ""
+"Enter your reCAPTCHA Public Key.<br><br>\n"
+"\t\t\tYou can obtain your reCAPTCHA keys at: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Simply leave this field blank if you won't be using this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:755
+msgid "reCAPTCHA: Private Key"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:756
+msgid ""
+"Enter your reCAPTCHA Private Key.<br><br>\n"
+"\t\t\tYou can obtain your reCAPTCHA keys at: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Simply leave this field blank if you won't be using this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:764
+msgid "reCAPTCHA Theme - Select a theme"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:765
+msgid "Please select a reCAPTCHA theme."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:776
+msgid "reCAPTCHA Theme - customization"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:777
+msgid "(For Advance User Only)<br/><br/>This setting overwrites the above reCAPTCHA theme selection. <br/><br/>You can customize the look and feel of reCAPTCHA, by entering your custom javascript code here. Please read <a href=\"http://code.google.com/intl/pt-PT/apis/recaptcha/docs/customization.html\" target=\"_blank\">reCAPTCHA developer documentation</a> for details.<br/><br/><u><strong>Important Notes:</strong></u><br/>Please change the javascript codes from google documentation to use <strong>double quotes</strong> for all javascript variables, and not single quotes."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:783
+msgid "Required Indicator"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:784
+msgid "This text will be displayed next to required fields."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:789
+msgid "Success Message"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:790
+msgid "Customize the success message that will be displayed after the user submits the form."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:795
+msgid "Submit Button - Text"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:796
+msgid "Customize the text that will be displayed on submit button"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:812
+msgid "Utility Pages"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:815
+msgid "404 Page - Searchbar"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:816
+msgid "A searchbar is displayed within the banner of the 404 Page by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:821
+msgid "404 Page - Banner Title"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:822
+msgid "Set the page title that is displayed in the banner area of the 404 Page."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:827
+msgid "404 Page - Banner Description"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:828
+msgid "This text is displayed within the banner area of the 404 Page.<br /><br /><em>Note: this text will only be displayed if the searchbar is diabled.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:833
+msgid "404 Page - Message"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:834
+msgid "Set the message that is displayed within the content area on the 404 Page."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:847
+msgid "Search Results Page - Searchbar"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:848
+msgid "A searchbar is displayed within the banner of the Search Results by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:853
+msgid "Search Results Page - Banner Title"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:854
+msgid "Set the page title that is displayed in the banner area of the Search Results Page."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:859
+msgid "Search Results Page - Banner Description"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:860
+msgid "This text is displayed within the banner area of the Search Results Page.<br /><br /><em>Note: this text will only be displayed if the searchbar is diabled.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:865
+msgid "Search Results Page - Fallback Message"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:866
+msgid "Set the message that is displayed when a search comes back with no results."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:871
+msgid "Under Construction Page - Main Message"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:872
+msgid "Set the main message that is displayed on the under construction page."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:878
+msgid "Under Construction Page - Year"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:879
+msgid "Select the year that your website will be ready."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:896
+msgid "Under Construction Page - Month"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:897
+msgid "Enter the number of the month that your website will be ready.<br><br>1- January<br>2- February<br>3- March<br>4- April<br>5- May<br>6- June<br>7- July<br>8- August<br>9- September<br>10- October<br>11- November<br>12- December"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:904
+msgid "Under Construction Page - Day"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:905
+msgid "Enter the day that your website will be ready.<br><br><em>Example: 10</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:926
+msgid "Homepage Lightbox"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:929
+msgid "Banner Content"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:930
+msgid "Enter the content to be displayed within the Banner area next to the callout images."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:935
+msgid "Primary Callout Image"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:936
+msgid "This is the primary callout image displayed in the banner area.<br>(450 x 316)"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:941
+msgid "Secondary Callout Image"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:942
+msgid "This is the secondary callout image displayed behind the primary image in the banner area.<br>(450 x 271)"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:947
+msgid "Lightbox"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:948
+msgid "The Callout images will link to a Lightbox by default. <em>Un-check this box to disable this functionality.</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:953
+msgid "Lightbox Content"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:954
+msgid "Enter the content to be displayed within the Lightbox. <em>(Examples below)</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:959
+msgid "Lightbox Content Examples"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:962
+msgid ""
+"\n"
+"\t\t\t<strong>Image:</strong> <em>http://www.yoursite.com/images/image-1.jpg</em><br>\n"
+"\t\t\t<strong>YouTube Video:</strong> <em>http://www.youtube.com/watch?v=VKS08be78os</em><br>\n"
+"\t\t\t<strong>Vimeo Video:</strong> <em>http://vimeo.com/8245346</em><br>\n"
+"\t\t\t<strong>Flash SWF:</strong> <em>http://www.yoursite.com/files/design.swf?width=792&height=294</em><br>\n"
+"\t\t\t<strong>i-Frame:</strong> <em>http://www.apple.com?iframe=true&width=850&height=500</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:983
+msgid "JavaScript Slider"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:987
+msgid "Slide Transition Effect"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:988
+msgid "Select a transition effect for your slides."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:995
+msgid "Slide Speed"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:996
+msgid "This number represents how fast your slides will animate.<br><br><em>Note:<br>lower number = faster speed</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:1002
+msgid "Slide Delay Time"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:1003
+msgid "This number represents the amount of delay time between each slide.<br><br><em>Note: leaving this set to 0 will prevent the slides from auto-play.<br><br>lower number = shorter delay</em>"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:1009
+msgid "Randomize Slides"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:1010
+msgid "Select whether or not your slides will display in random order."
+msgstr ""
+
+#: framework/theme-specific/site-options.php:1017
+msgid "Pause on Hover"
+msgstr ""
+
+#: framework/theme-specific/site-options.php:1018
+msgid "Select whether or not your slides will pause when hovered over by user."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:13
+msgid "Accordion Title"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:14
+msgid "Add the title for this accordion section."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:21
+msgid "Accordion Content"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:22
+msgid "Enter the content for this accordion section."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:27
+msgid "Active Accordion?"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:28
+msgid "Should this accordion section be active by default?"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:35
+msgid "Add Another Accordion Slide"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:49
+msgid "Style"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:50
+msgid "Select a style for this notification box."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:63
+msgid "Font Size"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:64
+msgid "Enter the font size for this notification box."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:71
+#: framework/theme-specific/tinymce/config.php:317
+#: framework/theme-specific/tinymce/config.php:594
+msgid "Content"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:72
+msgid "Enter the content for this notification box."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:90
+msgid "Button Size"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:91
+msgid "Select the button size."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:100
+msgid "Button Color"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:101
+msgid "Select the button color."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:119
+msgid "Button Text"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:120
+msgid "Enter the text for this button."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:126
+msgid "Button URL"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:127
+msgid "Enter the URL for this button. ie: http://www.google.com"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:132
+msgid "Button Target"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:133
+msgid "Select where the button should open."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:145
+#: framework/theme-specific/tinymce/config.php:346
+msgid "Enter the full URL to the content you wish to display in a Lightbox. (Simply ignore if you do not wish to open any content in a Lightbox)"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:151
+#: framework/theme-specific/tinymce/config.php:352
+#: framework/theme-specific/tinymce/config.php:495
+msgid "Lightbox Description"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:152
+#: framework/theme-specific/tinymce/config.php:353
+msgid "This descriptive text is displayed within the Lightbox."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:180
+msgid "Column Type"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:193
+msgid "Column Content"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:198
+msgid "Add Another Column"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:218
+msgid "Divider Style"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:219
+msgid "Select the divider style that you'd like to insert."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:245
+msgid "Icon"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:246
+msgid "Select your desired icon"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:318
+msgid "Enter the content to be displayed next to the icon."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:325
+msgid "Icon URL"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:326
+msgid "Enter the icon's URL. (leave blank to disable linking)."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:332
+msgid "Icon Target"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:333
+msgid "Select where the icon should open. (ignore if linking is disabled)"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:379
+#: framework/theme-specific/tinymce/config.php:453
+msgid "Size"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:380
+msgid "Select the image frame size."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:402
+#: framework/theme-specific/tinymce/config.php:476
+msgid "Image Path"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:403
+#: framework/theme-specific/tinymce/config.php:477
+msgid "Enter the full URL to the image you wish to display. (the image will be automatically re-sized)"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:410
+msgid "Image Description"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:411
+msgid "Add descriptive text to help boost your site's SEO. (this is converted to an image Alt tag)"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:417
+msgid "Link this Image"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:418
+msgid "Enter the full URL of the page you'd like to link to. (simply leave blank to disable linking)"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:423
+msgid "Link Target"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:424
+msgid "Select where the link should open."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:454
+msgid "Select the image lightbox frame size."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:484
+msgid ""
+"Enter the full URL to the content you wish to display in a Lightbox. <br><br>Examples:<br>\n"
+"\t\t\t- Image: http://www.yoursite.com/images/image-1.jpg<br>\n"
+"\t\t\t- YouTube: http://www.youtube.com/watch?v=VKS08be78os<br>\n"
+"\t\t\t- Vimeo: http://vimeo.com/8245346<br>\n"
+"\t\t\t- i-Frame: http://www.apple.com?iframe=true&width=850&height=500<br>\n"
+"\t\t\t- Flash: http://www.yoursite.com/files/design.swf?width=792&height=294"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:496
+msgid "Add descriptive text to help boost your site's SEO. (this is displayed within the lightbox and converted to an image Alt tag)"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:502
+msgid "Lightbox Group"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:503
+msgid "Enter a group name if you wish to group this item with other Lightbox items. (ie. group_1). Simply leave blank if you do not wish to group this item."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:527
+msgid "Tabset Style"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:528
+msgid "Select your desired tabset style"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:541
+msgid "Tab Title"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:542
+msgid "Add the title for this tab."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:549
+msgid "Tab Content"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:550
+msgid "Enter the content for this tab."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:555
+msgid "Active Tab?"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:556
+msgid "Should this tab be active by default?"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:563
+msgid "Add Another Tab"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:584
+msgid "Text Style"
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:585
+msgid "Select the text style that you'd like to insert."
+msgstr ""
+
+#: framework/theme-specific/tinymce/config.php:595
+msgid "Enter the content to be styled."
+msgstr ""
+
