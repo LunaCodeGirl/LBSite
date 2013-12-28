@@ -1,0 +1,30 @@
+<wpml-config>
+    <admin-texts>
+            <key name="st_logo_text" />
+            <key name="st_blogtitle" />
+            <key name="st_blogdescription" />
+            <key name="st_blog_excerpt_link" />
+            <key name="st_footer_callout_text" />
+            <key name="st_footer_callout_button" />
+            <key name="st_footer_copyright" />
+            <key name="st_breadcrumbs_home_text" />
+            <key name="st_searchbartext" />
+            <key name="st_scrolltoptext" />
+            <key name="st_contact_required" />
+            <key name="st_contact_successmsg" />
+            <key name="st_submit_button_text" />
+            <key name="st_404title" />
+            <key name="st_404description" />
+            <key name="st_404message" />
+            <key name="st_results_title" />
+            <key name="st_results_description" />
+            <key name="st_results_fallback" />
+            <key name="st_construction_main" />
+            <key name="st_home_lightbox_banner_content" />
+	<key name="aioseop_options">
+   			<key name="aiosp_home_title" />
+   			<key name="aiosp_home_description" />
+   			<key name="aiosp_home_keywords" />
+  	</key>             
+	</admin-texts> 
+</wpml-config>

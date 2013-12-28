@@ -1,0 +1,18 @@
+*** Ikaros Changelog ***
+
+7 September 2012 - Version 1.2
+
+	* Styled the WordPress default gallery in posts & pages
+	* Added the option to choose a location(header/footer) for the Anaylitics scripts
+	* Fixed translation issues
+	* Fixed a bunch of minor bugs(IE8 slider behaviour, some stylesheet bugs, some php issues, etc..)
+
+1 September 2012 - Version 1.1
+	
+	* Added support for custom sidebars on pages
+	* Fixed iPad/iPhone image issues
+
+30 August 2012 - Version 1.0
+	
+	* First Release
+  ##################################################

@@ -1,0 +1,259 @@
+/*
+Theme Name:     Linda Buseman Theme
+Theme URI:      http://spencercomerford.com
+Description:    Custom theme developed for Linda Buseman.
+Author:         Spencer Comerford
+Author URI:     http://spencercomerford.com
+Template:       awake
+Version:        1.0
+*/
+
+@import url("../awake/style.css");
+
+
+/* ------- Insert custom styles below this line ------- */
+
+#address-table #parking-info
+{
+	width: 170px;
+}
+
+#address-table td
+{
+	padding-left: none;
+	border: none;
+}
+
+
+body
+{
+	height:100%;
+	background-image: none !important;
+	background: #feffff !important; /* Old browsers */
+	background: -moz-linear-gradient(top,  #feffff 0%, #26ADE4 100%) !important; /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#feffff), color-stop(100%,#26ADE4)) !important; /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #feffff 0%,#26ADE4 100%) !important; /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #feffff 0%,#26ADE4 100%) !important; /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #feffff 0%,#26ADE4 100%) !important; /* IE10+ */
+	background: linear-gradient(to bottom,  #feffff 0%,#26ADE4 100%) !important; /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#26ADE4',GradientType=0 ) !important; /* IE6-9 */
+	background-attachment: fixed !important;
+}
+body>.multibg{background:none!important;height:100%;width:100%;top:0;left:0;position:absolute;overflow:hidden;min-width:990px;}
+body>.multibg>.multibg{display:none;}
+
+
+.clear
+{
+	clear: both;
+}
+
+
+.colorscheme_bg,.wp-pagenavi .current,.paged-navigation .current,
+#slider_module_inner .partial_gradient_slide .slide_overlay,
+body,body>.multibg>.multibg,
+.button_link,.fancy_button,#searchsubmit,#submit,.cluetip-default,
+.titled_box_title,.colored_box,.dropcap4,.pullquote4,.highlight,
+.tabs_button a.current,.fancy_header span,.minimal_table th{/*:Color Scheme*/
+background-color:#ccc !important;}
+.colorscheme_color,h1,.post_more_link_a,.intro_title,.post_meta a,.post_meta_bottom a,
+a:hover,.fancy_link_a,.dropcap2,.pullquote3,.highlight2,h5{/*:Color Scheme*/
+color:#26ADE4;}
+.colorscheme_border,.wp-pagenavi .current,.paged-navigation .current,
+#primary_menu,.post_more_link_arrow,.fancy_link_arrow,
+.button_link,.fancy_button,#searchsubmit,#submit,.cluetip-default,.cluetip-default .cluetip-arrows,
+.titled_box_title,.colored_box,.dropcap4,.pullquote4,.highlight,
+.tabs_button a.current,.fancy_header span,.minimal_table th{/*:Color Scheme*/
+border-color:#26ADE4;}
+
+
+#conditions-list
+{
+	margin-left: 50px;
+}
+
+
+.entry
+{
+	position: relative;
+}
+
+
+.fancy_button
+{
+	background-color: #666 !important;
+}
+
+
+#fancy_search
+{
+	display: none;
+}
+
+
+#footer
+{
+	background-image: url(../awake/styles/_rgba/black30.png) !important;
+}
+
+
+#footer #footer-pages li
+{
+	float: left;
+	padding-right: 10px;
+}
+
+
+.form-instructions-header h3
+{
+	margin-top: -10px;
+}
+
+
+#header
+{
+	height:150px;
+}
+
+
+html
+{
+	height:100%;
+	min-height:100%;
+}
+
+
+#header #custom-header-text h4, #header #custom-header-text h2
+{
+	color: white;
+	font-size: 200%;
+	text-align: center;
+}
+
+
+#home-over-image
+{
+	position: absolute;
+	top: 230px;
+	left: 20px;
+	right: 20px; 
+	-webkit-border-radius:8px;
+	-moz-border-radius:8px;
+	border-radius:8px;
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,.2);
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,.2);
+	box-shadow:0 1px 3px rgba(0,0,0,.2);
+	background-color: rgba(245,245,245,1.0);
+	background:-webkit-gradient(linear,left bottom,left top,from(rgba(242,242,242,1.0)),to(rgba(255,255,255,0.85)));
+	background:-moz-linear-gradient(bottom,rgba(242,242,242,1.0),rgba(255,255,255,0.85));
+	background:-o-linear-gradient(bottom,rgba(242,242,242,1.0),rgba(255,255,255,0.85));
+	background:linear-gradient(bottom,rgba(242,242,242,1.0),rgba(255,255,255,0.85));
+	padding: 10px 10px 0 10px;
+}
+
+
+#intro h4
+{
+	text-align: justify;
+	line-height: 150%;
+}
+
+
+.left_sidebar #sidebar{float:right;width:250px;}
+.left_sidebar #sidebar_inner{margin-right:40px;background:url(../awake/images/sidebarL-middle.png) repeat-y right top;}
+.left_sidebar .sidebar_top{display:block;height:20px;background:url(../awake/images/sidebarL-top.png) repeat-y 192px bottom;}
+.left_sidebar .sidebar_bottom{display:block;height:20px;background:url(../awake/images/sidebarL-bottom.png) repeat-y 192px bottom;}
+
+
+.is_home .page_title
+{
+	display: none;
+}
+
+
+.logo
+{
+	top: 17px !important;
+	left: -38px !important;
+	z-index: 1 !important;
+}
+
+
+#main
+{
+	margin-top: 15px !important;
+}
+
+
+.mysite_contact_widget
+{
+	font-size: 150%;
+	line-height: 150%;
+}
+
+
+p
+{
+	font-size: 115% !important;
+	line-height: 140% !important;
+	text-align: justify !important;
+}
+
+
+#primary_menu
+{
+	background-color: #333A40 !important;
+	border-style: none !important;
+}
+
+
+#primary_menu .jqueryslidemenu a
+{
+	font-size: 16px;
+	text-shadow:-1px -2px 0 #333;  
+}
+
+
+#primary_menu #primary-menu-inner-background
+{
+	width: inherit;
+	height: inherit;
+	position: absolute;
+	background: url(../awake/images/menu.png);
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	background-position: center bottom;
+}
+
+
+table h2
+{
+	margin: 0;
+}
+
+
+table .icon
+{
+	margin: 0 15px 0 0;
+}
+
+
+table th
+{
+	padding: 5px !important;
+}
+
+
+.treeview .file-info
+{
+	float: right;
+}
+
+
+
+
+
+
+
+
+

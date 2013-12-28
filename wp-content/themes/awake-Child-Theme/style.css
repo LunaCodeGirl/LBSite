@@ -1,0 +1,316 @@
+/*
+Theme Name:     Linda Buseman Theme
+Theme URI:      http://spencercomerford.com
+Description:    Custom theme developed for Linda Buseman.
+Author:         Spencer Comerford
+Author URI:     http://spencercomerford.com
+Template:       awake
+Version:        1.0
+*/
+
+@import url("../awake/style.css");
+
+
+/* ------- Insert custom styles below this line ------- */
+
+#address-table #parking-info
+{
+	width: 170px;
+}
+
+#address-table td
+{
+	padding-left: none;
+	border: none;
+}
+
+
+blockquote
+{
+	background: none;
+}
+
+
+body
+{
+
+}
+
+
+.clear
+{
+	clear: both;
+}
+
+
+#conditions-list
+{
+	margin-left: 50px;
+}
+
+
+.entry
+{
+	position: relative;
+}
+
+
+.fancy_button
+{
+	background-color: #666 !important;
+}
+
+
+#fancy_search
+{
+	display: none;
+}
+
+
+#footer
+{
+	background-image: url(../awake/styles/_rgba/black30.png) !important;
+}
+
+
+#footer #footer-pages li
+{
+	float: left;
+	padding-right: 10px;
+}
+
+
+.form-instructions-header h3
+{
+	margin-top: -10px;
+}
+
+
+#header
+{
+	height:150px;
+}
+
+
+html
+{
+	height:100%;
+	min-height:100%;
+}
+
+
+#header #custom-header-text h4, #header #custom-header-text h2
+{
+	color: white;
+	font-size: 200%;
+	text-align: center;
+}
+
+
+#home-over-image
+{
+	position: absolute;
+	top: 175px;
+	left: 20px;
+	right: 375px; 
+	-webkit-border-radius:8px;
+	-moz-border-radius:8px;
+	border-radius:8px;
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,.2);
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,.2);
+	box-shadow:0 1px 3px rgba(0,0,0,.2);
+	background-color: rgba(245,245,245,1.0);
+	background:-webkit-gradient(linear,left bottom,left top,from(rgba(242,242,242,1.0)),to(rgba(255,255,255,0.85)));
+	background:-moz-linear-gradient(bottom,rgba(242,242,242,1.0),rgba(255,255,255,0.85));
+	background:-o-linear-gradient(bottom,rgba(242,242,242,1.0),rgba(255,255,255,0.85));
+	background:linear-gradient(bottom,rgba(242,242,242,1.0),rgba(255,255,255,0.85));
+	padding: 10px 10px 0 10px;
+}
+
+
+#home-over-image h2
+{
+	float: right;
+}
+
+
+#intro h4
+{
+	text-align: justify;
+	line-height: 150%;
+}
+
+
+.left_sidebar #sidebar{float:right;width:250px;}
+.left_sidebar #sidebar_inner{margin-right:40px;background:url(../awake/images/sidebarL-middle.png) repeat-y right top;}
+.left_sidebar .sidebar_top{display:block;height:20px;background:url(../awake/images/sidebarL-top.png) repeat-y 192px bottom;}
+.left_sidebar .sidebar_bottom{display:block;height:20px;background:url(../awake/images/sidebarL-bottom.png) repeat-y 192px bottom;}
+
+
+.is_home .page_title
+{
+	display: none;
+}
+
+
+
+.linklist li
+{
+	width: 46%;
+	margin-right: 4%;
+	float: left;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 10px;
+	margin-top: 15px;
+	list-style: none;
+}
+
+
+.linklist .linkdescription
+{
+	text-align: justify;
+}
+
+
+.linklist .linkimage
+{
+	float: left;
+	margin: 0 10px 0 0;
+	padding: 3px;
+	border: 2px solid #002343;
+}
+
+
+.linklist .linklistcatname
+{
+	display: none;
+}
+
+
+.linklist .linkname
+{
+	font-weight: bold;
+	font-size: 16px;
+	text-decoration: underline;
+}
+
+
+.linklist .linkurl a
+{
+	color: #1486d7;
+}
+
+
+.logo
+{
+	top: 0px !important;
+	left: 0px !important;
+	z-index: 1 !important;
+}
+
+
+#main
+{
+	margin-top: 15px !important;
+}
+
+
+.mysite_contact_widget
+{
+	font-size: 130%;
+}
+
+
+.mysite_contact_widget p
+{
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+
+p
+{
+	font-size: 115% !important;
+	line-height: 140% !important;
+	text-align: justify !important;
+}
+
+
+#primary_menu
+{
+	background-color: #333A40 !important;
+	border-style: none !important;
+}
+
+
+#primary_menu .jqueryslidemenu a
+{
+	font-size: 16px;
+	text-shadow:-1px -2px 0 #333;  
+}
+
+
+#primary_menu #primary-menu-inner-background
+{
+	width: inherit;
+	height: inherit;
+	position: absolute;
+	background: url(../awake/images/menu.png);
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	background-position: center bottom;
+}
+
+
+.right_sidebar #sidebar .widget
+{
+	padding: 0 0 40px 10px;
+	overflow: hidden;
+	position: relative;
+}
+
+
+#sidebar .fancy_numbers
+{
+	margin: 0;
+}
+
+
+table h2
+{
+	margin: 0;
+}
+
+
+table .icon
+{
+	margin: 0 15px 0 0;
+}
+
+
+table th
+{
+	padding: 5px !important;
+}
+
+
+.treeview .file-info
+{
+	float: right;
+}
+
+
+#thumbshots-link
+{
+	color: rgba(0, 0, 0, 0);
+	font-size: 0px;
+}
+
+
+
+
+
+
+
+
+

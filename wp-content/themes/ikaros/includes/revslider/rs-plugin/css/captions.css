@@ -1,0 +1,99 @@
+
+
+.caption.default {
+	
+}
+
+.caption.big_white {
+	color: #fff;
+	font-size: 35px;
+	line-height: 35px;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.caption.small_white {
+	color: #fff;
+	font-size: 20px;
+	line-height: 28px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.caption.big_black {
+	color: #2c2c2c;
+	font-size: 35px;
+	line-height: 35px;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.caption.big_black_bg {
+	background-color: #2c2c2c;
+	color: #fff;
+	font-size: 35px;
+	line-height: 35px;
+	font-weight: bold;
+	padding: 5px 10px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.caption.small_black_bg {
+	color: #fff;
+	font-size: 20px;
+	line-height: 28px;
+	background-color: #2c2c2c;
+	padding: 5px 10px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.caption.big_white_bg {
+	background-color: #fff;
+	color: #414141;
+	font-size: 35px;
+	line-height: 35px;
+	font-weight: bold;
+	padding: 5px 10px 7px;
+	-webkit-box-shadow: 0px 1px 2px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.2);
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.caption.big_white_bg_2 {
+	background-color: #fff;
+	color: #414141;
+	font-size: 27px;
+	line-height: 27px;
+	font-weight: bold;
+	padding: 5px 10px 7px;
+	-webkit-box-shadow: 0px 1px 2px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.2);
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.caption.small_white_bg {
+	color: #414141;
+	font-size: 20px;
+	line-height: 28px;
+	background-color: #fff;
+	padding: 5px 10px 6px;
+	-webkit-box-shadow: 0px 1px 2px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.2);
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.caption.boxshadow {
+	-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+}
+
+.caption.noshadow {
+	text-shadow: none;
+}	
+.caption a { 
+	color: #ff7302; text-shadow: none;	-webkit-transition: all 0.2s ease-out; -moz-transition: all 0.2s ease-out; -o-transition: all 0.2s ease-out; -ms-transition: all 0.2s ease-out;	 
+}			
+	
+.caption a:hover { 
+	color: #ffa902; 
+}
